@@ -1,0 +1,15 @@
+.rodape {
+    background-color: #030303;
+    width: 100%;
+    padding: 20px;
+}
+
+.copy {
+    max-width: 1024px;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    color: #7c8186;
+    font-size: 15px;
+    text-align: center;
+}
